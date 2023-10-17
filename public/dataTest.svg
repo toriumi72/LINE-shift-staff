@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="414" height="896" viewBox="0 0 414 896">
+  <defs>
+    <clipPath id="clip-従業員_sp_ホーム_カレンダー_2">
+      <rect width="414" height="896"/>
+    </clipPath>
+  </defs>
+  <g id="従業員_sp_ホーム_カレンダー_2" data-name="従業員　sp　ホーム – カレンダー – 2" clip-path="url(#clip-従業員_sp_ホーム_カレンダー_2)">
+    <rect width="414" height="896" fill="#f8f8f8"/>
+    <path id="パス_845" data-name="パス 845" d="M0,0H414V60H0Z" fill="#062c54"/>
+    <g id="グループ_1540" data-name="グループ 1540" transform="translate(-866 2.459)">
+      <path id="パス_1" data-name="パス 1" d="M22.584,21H15.046a3.015,3.015,0,0,1-6.031,0H1.476A1.447,1.447,0,0,1,.119,19.95,1.6,1.6,0,0,1,.571,18.3a6.028,6.028,0,0,0,2.412-4.8V9A9.046,9.046,0,0,1,21.076,9v4.5a6.028,6.028,0,0,0,2.412,4.8,1.416,1.416,0,0,1,.452,1.65A1.447,1.447,0,0,1,22.584,21Z" transform="translate(1184.457 15)" fill="#fff" fill-rule="evenodd"/>
+      <path id="パス_784" data-name="パス 784" d="M7,0A7,7,0,1,1,0,7,7,7,0,0,1,7,0Z" transform="translate(1197.52 13)" fill="#dc3711"/>
+      <text id="_2" data-name="2" transform="translate(1201.02 25)" fill="#fff" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="コンポーネント_1_42" data-name="コンポーネント 1 – 42" transform="translate(364 13)">
+      <g id="User">
+        <circle id="楕円形_32" data-name="楕円形 32" cx="17.5" cy="17.5" r="17.5" fill="#f0f3f5"/>
+        <g id="Icon_-_User" data-name="Icon - User" transform="translate(8 8)">
+          <path id="合体_1" data-name="合体 1" d="M0,20V17.5c0-2.751,4.5-5,10-5s10,2.25,10,5V20ZM5,5a5,5,0,1,1,5,5A5,5,0,0,1,5,5Z" fill="#062c54"/>
+        </g>
+      </g>
+    </g>
+    <text id="勤務データ" transform="translate(70 92)" fill="#062c54" font-size="18" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="-45" y="0">勤務</tspan><tspan y="0">データ</tspan></text>
+    <g id="Nav_bar_-_Inner" data-name="Nav bar - Inner" transform="translate(15.425 19.09)">
+      <g id="グループ_1487" data-name="グループ 1487" transform="translate(8.126 3.91)">
+        <g id="logo" transform="translate(-8.126 -3.91)">
+          <path id="パス_754" data-name="パス 754" d="M445.87,346.771a11.16,11.16,0,0,0-2.313-4.038A8.752,8.752,0,0,0,439.5,340.2a18.756,18.756,0,0,0-5.623-.786H421.772l-5.381,7.8-5.23-7.8h-4.927l7.708,11.212-7.708,11.157h4.927l5.23-7.739,5.381,7.739h4.776l-7.739-11.157,5.068-7.346h10q4.387,0,6.5,2.3a7.419,7.419,0,0,1,1.469,2.373,7.639,7.639,0,0,1,.5,2.708,8.286,8.286,0,0,1-.453,2.627,6.456,6.456,0,0,1-1.454,2.418q-2.055,2.207-6.436,2.207h-1.333v-9.62h-4.142V361.78h5.383a17.064,17.064,0,0,0,5.774-.819,9.873,9.873,0,0,0,3.9-2.6,10.829,10.829,0,0,0,2.134-3.494,12.438,12.438,0,0,0,.768-4.487A12.9,12.9,0,0,0,445.87,346.771Z" transform="translate(-406.234 -339.41)" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <path id="パス_846" data-name="パス 846" d="M0,0H414V65H0Z" transform="translate(0 831)" fill="#fff"/>
+    <g id="グループ_1700" data-name="グループ 1700" transform="translate(63 20)" opacity="0.5">
+      <text id="シフト希望" transform="translate(144 867)" fill="#062c54" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="-30" y="0">シフト</tspan><tspan y="0">希望</tspan></text>
+      <g id="Icon_-_Time" data-name="Icon - Time" transform="translate(131 821)">
+        <path id="パス_13" data-name="パス 13" d="M4.05,3.75A12.733,12.733,0,0,1,13.5,0a12.733,12.733,0,0,1,9.45,3.75A10.973,10.973,0,0,1,27,12.5a10.973,10.973,0,0,1-4.05,8.75A12.733,12.733,0,0,1,13.5,25a12.733,12.733,0,0,1-9.45-3.75C1.575,18.75,0,16.042,0,12.5A10.973,10.973,0,0,1,4.05,3.75ZM19.575,18.125l1.575-1.458-5.625-5.208L13.5,3.125H11.25V12.5a1.829,1.829,0,0,0,.675,1.458.806.806,0,0,0,.45.208Z" transform="translate(0 0)" fill="#062c54"/>
+      </g>
+    </g>
+    <g id="グループ_1702" data-name="グループ 1702" transform="translate(25 16)" opacity="0.5">
+      <g id="グループ_1701" data-name="グループ 1701" transform="translate(190 4)">
+        <text id="勤務データ-2" data-name="勤務データ" transform="translate(144 867)" fill="#062c54" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="-30" y="0">勤務</tspan><tspan y="0">データ</tspan></text>
+      </g>
+      <g id="Icon_-_Comment" data-name="Icon - Comment" transform="translate(322 825)">
+        <path id="Chat" d="M7.813,12.5a1.476,1.476,0,0,0,1.563,1.563h6.25A1.566,1.566,0,0,0,17.188,12.5a1.476,1.476,0,0,0-1.562-1.562H9.375A1.566,1.566,0,0,0,7.813,12.5ZM0,7.813A7.737,7.737,0,0,1,7.813,0h9.375A7.737,7.737,0,0,1,25,7.813V23.438A1.476,1.476,0,0,1,23.438,25H7.813A7.737,7.737,0,0,1,0,17.188Z" fill="#062c54" fill-rule="evenodd"/>
+      </g>
+    </g>
+    <g id="グループ_1699" data-name="グループ 1699" transform="translate(-65 20)">
+      <text id="ホーム" transform="translate(108 867)" fill="#062c54" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="-17.82" y="0">ホーム</tspan></text>
+      <path id="パス_774" data-name="パス 774" d="M13.5,2,1,12.714H4.33V27h6.25V19.857h6.25V27h6.25V12.714H26Z" transform="translate(95 819)" fill="#062c54"/>
+    </g>
+    <rect id="長方形_1363" data-name="長方形 1363" width="414" height="61" fill="#fff"/>
+    <g id="Nav_bar_-_Inner-2" data-name="Nav bar - Inner" transform="translate(15.425 19.09)">
+      <g id="グループ_1487-2" data-name="グループ 1487" transform="translate(8.126 3.91)">
+        <g id="logo-2" data-name="logo" transform="translate(-8.126 -3.91)">
+          <path id="パス_754-2" data-name="パス 754" d="M445.87,346.771a11.16,11.16,0,0,0-2.313-4.038A8.752,8.752,0,0,0,439.5,340.2a18.756,18.756,0,0,0-5.623-.786H421.772l-5.381,7.8-5.23-7.8h-4.927l7.708,11.212-7.708,11.157h4.927l5.23-7.739,5.381,7.739h4.776l-7.739-11.157,5.068-7.346h10q4.387,0,6.5,2.3a7.419,7.419,0,0,1,1.469,2.373,7.639,7.639,0,0,1,.5,2.708,8.286,8.286,0,0,1-.453,2.627,6.456,6.456,0,0,1-1.454,2.418q-2.055,2.207-6.436,2.207h-1.333v-9.62h-4.142V361.78h5.383a17.064,17.064,0,0,0,5.774-.819,9.873,9.873,0,0,0,3.9-2.6,10.829,10.829,0,0,0,2.134-3.494,12.438,12.438,0,0,0,.768-4.487A12.9,12.9,0,0,0,445.87,346.771Z" transform="translate(-406.234 -339.41)" fill="#062c54"/>
+        </g>
+      </g>
+    </g>
+    <g id="グループ_1540-2" data-name="グループ 1540" transform="translate(-866 2.459)">
+      <path id="パス_1-2" data-name="パス 1" d="M22.584,21H15.046a3.015,3.015,0,0,1-6.031,0H1.476A1.447,1.447,0,0,1,.119,19.95,1.6,1.6,0,0,1,.571,18.3a6.028,6.028,0,0,0,2.412-4.8V9A9.046,9.046,0,0,1,21.076,9v4.5a6.028,6.028,0,0,0,2.412,4.8,1.416,1.416,0,0,1,.452,1.65A1.447,1.447,0,0,1,22.584,21Z" transform="translate(1184.457 15)" fill="#062c54" fill-rule="evenodd"/>
+      <path id="パス_784-2" data-name="パス 784" d="M7,0A7,7,0,1,1,0,7,7,7,0,0,1,7,0Z" transform="translate(1197.52 13)" fill="#dc3711"/>
+      <text id="_2-2" data-name="2" transform="translate(1201.02 25)" fill="#fff" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">2</tspan></text>
+    </g>
+    <g id="コンポーネント_1_43" data-name="コンポーネント 1 – 43" transform="translate(364 13)">
+      <g id="User-2" data-name="User">
+        <circle id="楕円形_32-2" data-name="楕円形 32" cx="17.5" cy="17.5" r="17.5" fill="#062c54"/>
+        <g id="Icon_-_User-2" data-name="Icon - User" transform="translate(8 8)">
+          <path id="合体_1-2" data-name="合体 1" d="M0,20V17.5c0-2.751,4.5-5,10-5s10,2.25,10,5V20ZM5,5a5,5,0,1,1,5,5A5,5,0,0,1,5,5Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+    <rect id="長方形_1340" data-name="長方形 1340" width="384" height="36.923" rx="5" transform="translate(15 122)" fill="#062c54"/>
+    <g id="Icon_-_ArrowRight_-_Small" data-name="Icon - ArrowRight - Small" transform="translate(312.9 137.8)">
+      <path id="パス_36" data-name="パス 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(-2 11.4) rotate(-90)" fill="#fff"/>
+    </g>
+    <g id="Icon_-_ArrowRight_-_Small-2" data-name="Icon - ArrowRight - Small" transform="translate(101 147.2) rotate(180)">
+      <path id="パス_36-2" data-name="パス 36" d="M6.7,8.1,2,3.4,3.4,2,6.7,5.3,10,2l1.4,1.4Z" transform="translate(-2 11.4) rotate(-90)" fill="#fff"/>
+    </g>
+    <text id="シフト表ごと" transform="translate(215 118)" fill="#062c54" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">シフト</tspan><tspan y="0">表</tspan><tspan y="0">ごと</tspan></text>
+    <text id="月ごと" transform="translate(302 118)" fill="#062c54" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700" opacity="0.5"><tspan x="0" y="0">月</tspan><tspan y="0">ごと</tspan></text>
+    <text id="年ごと" transform="translate(353 118)" fill="#062c54" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700" opacity="0.5"><tspan x="0" y="0">年</tspan><tspan y="0">ごと</tspan></text>
+    <text id="_2022年09月01日_2020年09月07日" data-name="2022年09月01日~2020年09月07日" transform="translate(111 147)" fill="#fff" font-size="12" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">2022年09月01日~2020年09月07日</tspan></text>
+    <g id="グループ_1768" data-name="グループ 1768" transform="translate(-25 -14)">
+      <g id="楕円形_228" data-name="楕円形 228" transform="translate(82 198)" fill="#fff" stroke="#062c54" stroke-width="1">
+        <circle cx="150" cy="150" r="150" stroke="none"/>
+        <circle cx="150" cy="150" r="149.5" fill="none"/>
+      </g>
+      <g id="グループ_1767" data-name="グループ 1767" transform="translate(165.217 293.279)">
+        <text id="給料見込み" transform="translate(32 16)" fill="#062c54" font-size="14" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">給料見込</tspan><tspan y="0">み</tspan></text>
+        <text id="_20_000" data-name="￥ 20,000" transform="translate(0 51.99)" fill="#062c54" font-size="30" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">￥ 20,000</tspan></text>
+      </g>
+      <text id="シフト表ごとの目標給料_80_000" data-name="シフト表ごとの目標給料
+￥80,000" transform="translate(233.217 405.279)" fill="#062c54" font-size="14" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="-76.93" y="0">シフト</tspan><tspan y="0">表</tspan><tspan y="0">ごとの</tspan><tspan y="0">目標給料</tspan><tspan x="-29.89" y="22">￥80,000</tspan></text>
+    </g>
+    <g id="グループ_1788" data-name="グループ 1788" transform="translate(-2 6)">
+      <rect id="長方形_1392" data-name="長方形 1392" width="356" height="249" rx="5" transform="translate(31 519)" fill="#fff"/>
+      <text id="時給" transform="translate(43 553)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">時給</tspan></text>
+      <text id="勤務時間" transform="translate(43 631)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">勤務時間</tspan></text>
+      <text id="勤務日数" transform="translate(43 670)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">勤務日数</tspan></text>
+      <text id="概算交通費" transform="translate(43 709)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">概算交通費</tspan></text>
+      <text id="交通費" transform="translate(43 592)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">交通費</tspan></text>
+      <text id="概算給与" transform="translate(43 748)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">概算給与</tspan></text>
+      <line id="線_99" data-name="線 99" x2="339" transform="translate(39.5 565.5)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="1" opacity="0.25"/>
+      <line id="線_107" data-name="線 107" x2="339" y2="0.5" transform="translate(39.5 604.5)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="1" opacity="0.25"/>
+      <line id="線_108" data-name="線 108" x2="339.448" transform="translate(39.5 643.5)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="1" opacity="0.25"/>
+      <line id="線_109" data-name="線 109" x2="339.448" y2="1" transform="translate(39.5 681.5)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="1" opacity="0.25"/>
+      <line id="線_110" data-name="線 110" x2="339.448" y2="1" transform="translate(39.5 720.5)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="1" opacity="0.25"/>
+      <line id="線_111" data-name="線 111" x2="339.448" y2="1.5" transform="translate(39.5 759.5)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="1" opacity="0.25"/>
+      <text id="_1_000" data-name="￥　1,000" transform="translate(293 592)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">￥　1,000</tspan></text>
+      <text id="_1_000-2" data-name="￥　1,000" transform="translate(293 553)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">￥　1,000</tspan></text>
+      <text id="_20時間00分" data-name="20時間00分" transform="translate(282 631)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">20時間00分</tspan></text>
+      <text id="_3日" data-name="3日" transform="translate(343 670)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">3日</tspan></text>
+      <text id="_3_000" data-name="￥    3,000" transform="translate(296 709)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0" xml:space="preserve">￥    3,000</tspan></text>
+      <text id="_20_000-2" data-name="￥ 20,000" transform="translate(296 748)" fill="#062c54" font-size="16" font-family="SourceHanSansJP-Bold, Source Han Sans JP" font-weight="700"><tspan x="0" y="0">￥ 20,000</tspan></text>
+    </g>
+    <path id="パス_852" data-name="パス 852" d="M3.261-5.863S153.076-5.2,155.678,160.745" transform="translate(207 184.813)" fill="none" stroke="#062c54" stroke-linecap="round" stroke-width="15"/>
+    <g id="Icon_-_ArrowRight_-_Small-3" data-name="Icon - ArrowRight - Small" transform="translate(387 333.613)">
+      <path id="パス_36-3" data-name="パス 36" d="M11.944,14,0,3.213,3.558,0l8.386,7.574L20.331,0l3.558,3.213Z" transform="translate(0 23.889) rotate(-90)" fill="#062c54"/>
+    </g>
+    <g id="Icon_-_ArrowRight_-_Small-4" data-name="Icon - ArrowRight - Small" transform="translate(27.678 357.502) rotate(180)">
+      <path id="パス_36-4" data-name="パス 36" d="M11.944,14,0,3.213,3.558,0l8.386,7.574L20.331,0l3.558,3.213Z" transform="translate(0 23.889) rotate(-90)" fill="#062c54"/>
+    </g>
+  </g>
+</svg>
